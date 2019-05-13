@@ -1,18 +1,16 @@
 ## 9. VOTO ANTECIPADO
 
-Regra geral, o direito de sufrágio é exercido presencialmente em assembleia de voto pelo eleitor, salvo nos casos
-
-excecionais de possibilidade de voto antecipado previstos na presente lei.
+Regra geral, o direito de sufrágio é exercido presencialmente em assembleia de voto pelo eleitor, salvo nos casos excecionais de possibilidade de voto antecipado previstos na presente lei.
 
 *(artigo 79.º da LEAR)*
 
 A lei prevê, no entanto, a possibilidade do exercício do voto antecipado nas seguintes situações:
 
->Em mobilidade.
+- Em mobilidade.
 
->Por doentes internados e por presos.
+- Por doentes internados e por presos.
 
->Por eleitores recenseados no território nacional e deslocados no estrangeiro.
+- Por eleitores recenseados no território nacional e deslocados no estrangeiro.
 
 
 ### 9.1. Voto antecipado em mobilidade
@@ -60,9 +58,7 @@ Podem votar antecipadamente:
 
 *(artigo 79.º-B, n.º 1, da LEAR)*
 
-Até ao dia 6 de maio, os eleitores requerem à Secretaria-Geral do Ministério da Administração Interna a documentação
-
-necessária.
+Até ao dia 6 de maio, os eleitores requerem à Secretaria-Geral do Ministério da Administração Interna a documentação necessária.
 
 No requerimento, indicam:
 
